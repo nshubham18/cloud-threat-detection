@@ -1,0 +1,5 @@
+{"ts":"2026-02-16T13:01:00Z","event":"login","user":"alice","result":"FAIL","ip":"10.0.0.5","city":"Dallas"}
+{"ts":"2026-02-16T13:01:10Z","event":"login","user":"alice","result":"FAIL","ip":"10.0.0.5","city":"Dallas"}
+{"ts":"2026-02-16T13:01:20Z","event":"login","user":"alice","result":"FAIL","ip":"10.0.0.5","city":"Dallas"}
+{"ts":"2026-02-16T13:01:30Z","event":"login","user":"alice","result":"FAIL","ip":"10.0.0.5","city":"Dallas"}
+{"ts":"2026-02-16T13:01:40Z","event":"login","user":"alice","result":"SUCCESS","ip":"10.0.0.5","city":"Dallas"}
